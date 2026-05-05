@@ -1,9 +1,9 @@
 {
-  "name": "amit-portfolio",
+  "name": "portfolio",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://amitwebtech.github.io/amit-portfolio",
+  "homepage": "https://amitwebtech.github.io/portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
